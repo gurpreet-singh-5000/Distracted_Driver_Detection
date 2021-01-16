@@ -13,4 +13,9 @@ The images needs to be classified into the below classes:
 - c8: hair and makeup 
 - c9: talking to passenger
 
-The code posted here involves only the machine learning implementation (and not the DL one). The details of the project are provided in "Report.pdf".
+The code posted here involves only the machine learning implementation (and not the DL one). The details of the project are provided in "Report.pdf". Following classification algorithms have been applied:
+
+- SVM
+- GNB
+- Logistic Regression
+- Nearest K-Neighbours Classifier
